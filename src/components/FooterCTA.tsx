@@ -114,7 +114,7 @@ export default function FooterCTA() {
 
           {/* Bottom */}
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-text-muted">
-            <span>© {currentYear} WeAutomate. All rights reserved.</span>
+            <span>© {currentYear} Sonic Technologies. All rights reserved.</span>
             <div className="flex items-center gap-6">
               <a
                 href="#"
