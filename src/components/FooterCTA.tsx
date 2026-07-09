@@ -106,6 +106,12 @@ export default function FooterCTA() {
           {/* Divider */}
           <div className="h-px bg-border-light my-8" />
 
+          {/* SEO Text Section */}
+          <div className="mb-6 text-xs text-text-muted/70 text-center max-w-4xl mx-auto leading-relaxed">
+            WeAutomate is a leading AI automation agency providing AI integration in business across the USA, Europe, Australia, and Bangladesh. 
+            We build scalable workflows, enterprise AI architectures, and intelligent solutions including AI automatic message replies for Facebook, Instagram, and other social media platforms.
+          </div>
+
           {/* Bottom */}
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-text-muted">
             <span>© {currentYear} WeAutomate. All rights reserved.</span>
