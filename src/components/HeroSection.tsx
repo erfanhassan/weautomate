@@ -79,7 +79,7 @@ export default function HeroSection() {
         >
           {/* Primary CTA */}
           <a
-            href="mailto:info@sonictech.com"
+            href="mailto:info@sonictch.com"
             className="group relative inline-flex items-center gap-2 px-8 py-4 rounded-full bg-accent text-white font-semibold text-base shadow-[0_4px_30px_rgba(0,200,83,0.25)] hover:shadow-[0_8px_40px_rgba(0,200,83,0.35)] hover:bg-accent-dark transition-all duration-300"
           >
             Schedule a Technical Audit

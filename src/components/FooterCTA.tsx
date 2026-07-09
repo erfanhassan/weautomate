@@ -40,7 +40,7 @@ export default function FooterCTA() {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <a
-              href="mailto:info@sonictech.com"
+              href="mailto:info@sonictch.com"
               className="group relative inline-flex items-center gap-3 px-10 py-5 rounded-full bg-accent text-white font-semibold text-lg shadow-[0_4px_40px_rgba(0,200,83,0.3)] hover:shadow-[0_8px_60px_rgba(0,200,83,0.4)] hover:bg-accent-dark transition-all duration-300 hover:scale-[1.02]"
             >
               Book a Technical Discovery Call
@@ -82,7 +82,7 @@ export default function FooterCTA() {
             {/* Contact */}
             <div className="flex items-center gap-6">
               <a
-                href="mailto:info@sonictech.com"
+                href="mailto:info@sonictch.com"
                 className="flex items-center gap-2 text-sm text-text-secondary hover:text-accent-dark transition-colors duration-300"
               >
                 <svg
@@ -98,7 +98,7 @@ export default function FooterCTA() {
                     d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"
                   />
                 </svg>
-                info@sonictech.com
+                info@sonictch.com
               </a>
             </div>
           </div>

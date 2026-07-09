@@ -65,7 +65,7 @@ export default function Navbar() {
           {/* CTA */}
           <div className="hidden md:block">
             <a
-              href="mailto:info@sonictech.com"
+              href="mailto:info@sonictch.com"
               className="relative inline-flex items-center px-5 py-2.5 text-sm font-semibold rounded-full overflow-hidden group"
             >
               <span className="absolute inset-0 rounded-full bg-gradient-to-r from-accent via-accent-light to-accent bg-[length:200%_200%] animate-trace-border" />
@@ -137,7 +137,7 @@ export default function Navbar() {
                 </motion.a>
               ))}
               <a
-                href="mailto:info@sonictech.com"
+                href="mailto:info@sonictch.com"
                 onClick={() => setMobileOpen(false)}
                 className="mt-4 inline-flex items-center justify-center px-6 py-3 text-base font-semibold rounded-full bg-accent text-white hover:bg-accent-dark transition-colors"
               >
