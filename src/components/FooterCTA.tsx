@@ -113,22 +113,8 @@ export default function FooterCTA() {
           </div>
 
           {/* Bottom */}
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-text-muted">
+          <div className="flex items-center justify-center text-xs text-text-muted">
             <span>© {currentYear} Sonic Technologies. All rights reserved.</span>
-            <div className="flex items-center gap-6">
-              <a
-                href="#"
-                className="hover:text-accent-dark transition-colors duration-300"
-              >
-                Privacy Policy
-              </a>
-              <a
-                href="#"
-                className="hover:text-accent-dark transition-colors duration-300"
-              >
-                Terms of Service
-              </a>
-            </div>
           </div>
         </div>
       </div>
