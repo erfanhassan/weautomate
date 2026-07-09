@@ -3,7 +3,19 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 
-const products = [
+interface Product {
+  id: string;
+  name: string;
+  tagline: string;
+  status: string;
+  statusColor: string;
+  description: string;
+  website: string;
+  screenshots: string[];
+  icon?: React.ReactNode;
+}
+
+const products: Product[] = [
   {
     id: "ava",
     name: "Ava",
